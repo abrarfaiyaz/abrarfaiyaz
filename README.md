@@ -1,4 +1,4 @@
-## 🏠 [Abrar Faiyaz](https://abrarfaiyaz.github.io/cv)
+## 🤖 [Abrar Faiyaz](https://abrarfaiyaz.github.io/cv)
 
 🏢 Currently working as a Postdoctoral Researcher, focusing on brain imaging, neuroinflammation, and computational neuroscience. Collaborating with multiple teams to advance methods in medical imaging and machine learning.<br>
 
@@ -9,7 +9,7 @@
 💡 Hobbies:  Contemporary Art, Religion, Guitar, Virtual Reality, Game Development, and Reading Scientific Papers.
 
 ## 🖥️ Current Projects:
->> Developing a VR environment to visualize 3D artery models
+>> Developing a VR environment to visualize 3D artery models. <br>
 >> Training a deep learning model to enhance MR angiograms.
 
 🌐 Website: abrarfaiyaz.github.io/cv
