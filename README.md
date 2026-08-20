@@ -8,10 +8,6 @@
 
 💡 Hobbies:  Contemporary Art, Religion, Guitar, Virtual Reality, Game Development, and Reading Scientific Papers.
 
-## 🖥️ Current Projects:
->> Developing a VR environment to visualize 3D artery models. <br>
->> Training a deep learning model to enhance MR angiograms.
-
 🌐 Website: abrarfaiyaz.github.io/cv
 
 # 💻 Tech Stack
